@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hello World ! This is my first repository change !
+Hello World ! I eager to learn more about the fascinating word of coding !
